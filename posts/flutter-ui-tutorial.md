@@ -3,7 +3,7 @@ title: 'Flutter UI Tutorial'
 date: 'March 5, 2021'
 excerpt: 'Django is a very powerful, high level Python framework for building web applications'
 cover_image: '/images/posts/flutter.jpg'
-category: 'Python'
+category: 'Flutter'
 author: 'Sam Smith'
 author_image: 'https://randomuser.me/api/portraits/men/12.jpg'
 ---
